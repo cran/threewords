@@ -1,0 +1,14 @@
+67180a52d73b2dbb2ea39402e9a72e80 *DESCRIPTION
+93d6a24af3a68b50be2a6d107e0aebc2 *LICENSE
+25b1aa1372ceb05c81d7e972303bcfe6 *NAMESPACE
+bbb8a1e371df4083693d71ac3b8236fe *NEWS
+7a62565535de20ba33ab66c7f6f2f918 *R/position.R
+714a75e5d43741f53054891951676885 *R/threewords.R
+d1a9fc6b780319a14a304626a2722154 *R/utils.R
+ad0a94eef8a530fba8a7776339450bcc *R/words.R
+d26c9c03fa8deaf53fdb41f52c20bd83 *README.md
+8a70b0de51337eeb33351092b737e9f1 *man/from_position.Rd
+0f2ba38285b6cf5e735a03a59117db06 *man/from_words.Rd
+fe48294fb79e5c24489bd8f8a6bbddba *man/threewords.Rd
+31048c30902fcd27982836d3362327b0 *tests/testthat.R
+ed7790d52310074d70c1786846510392 *tests/testthat/test_threewords.R
