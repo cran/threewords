@@ -1,6 +1,6 @@
 ## An R client library for what3words
 
-__Author:__ Oliver Keyes<br/>Robbie Still
+__Author:__ Oliver Keyes, Robbie Still<br/>
 __License:__ [MIT](http://opensource.org/licenses/MIT)<br/>
 __Status:__ Stable
 
