@@ -1,8 +1,9 @@
 single_words <- function(words, key, ...){
-  url <- paste0("https://api.what3words.com/w3w?key=", key,
-                "&string=", paste(words, collapse = "."))
+  url <-  paste0("https://api.what3words.com/v3/convert-to-coordinates?words=",
+                 paste(words, collapse = "."), "&key=", key)
  return(clean(threeword_query(url, ...)))
 }
+
 
 #'@title Resolve Three Identifying Words to a Position
 #'@description \code{from_words} takes a word cluster used by what3words and

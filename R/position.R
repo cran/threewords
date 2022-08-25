@@ -1,7 +1,7 @@
 
 single_position <- function(position, key, ...){
-  url <- paste0("https://api.what3words.com/position?key=", key,
-                "&position=", paste(position, collapse = ","))
+  url <- paste0("https://api.what3words.com/v3/convert-to-3wa?coordinates=",
+                paste(position, collapse = ","), "&key=", key)
   return(clean(threeword_query(url, ...)))
 }
 
